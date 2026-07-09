@@ -1,9 +1,8 @@
 services:
-  api:
+  fallinsurance-api:
     build: .
-    image: fallinsurance-api:1.0.0
     ports:
-      - "8383:8383"
+      - "3000:3000"
     environment:
-      - PORT=8383
+      PORT: "3000"
     restart: unless-stopped
