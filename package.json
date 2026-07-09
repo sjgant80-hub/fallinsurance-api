@@ -1,0 +1,38 @@
+{
+  "name": "@ai-native-solutions/fallinsurance-api",
+  "version": "1.0.0",
+  "description": "HTTP API for FallInsurance — UK GI broker toolkit exposed over Express.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "Dockerfile",
+    "docker-compose.yml"
+  ],
+  "keywords": [
+    "insurance",
+    "uk",
+    "fca",
+    "api",
+    "express",
+    "http"
+  ],
+  "author": "AI-Native Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjgant80-hub/fallinsurance-api.git"
+  },
+  "dependencies": {
+    "@ai-native-solutions/fallinsurance-sdk": "^1.0.0",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
