@@ -1,0 +1,8 @@
+# fallinsurance-api
+
+> FallInsurance HTTP API · sovereign
+
+Canonical URL: https://sjgant80-hub.github.io/fallinsurance-api/
+Publisher: AI-Native Solutions · https://ai-nativesolutions.com
+Registry: https://sjgant80-hub.github.io/fallmarket/listing.html?id=fallinsurance-api
+License: MIT

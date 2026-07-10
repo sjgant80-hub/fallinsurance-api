@@ -1,0 +1,22 @@
+{
+  "name": "@ai-native-solutions/fallinsurance-api",
+  "version": "1.0.0",
+  "description": "FallInsurance HTTP API · sovereign",
+  "type": "module",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "AI-Native Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjgant80-hub/fallinsurance-api.git"
+  },
+  "homepage": "https://sjgant80-hub.github.io/fallinsurance-api/",
+  "publishConfig": {
+    "access": "public"
+  }
+}
